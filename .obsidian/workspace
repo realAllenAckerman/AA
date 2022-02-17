@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Bold hypothesis.md",
+            "file": "Drafts/金融市场与真理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Bold hypothesis.md",
+                "file": "Drafts/金融市场与真理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Bold hypothesis.md"
+                "file": "Drafts/金融市场与真理.md"
               }
             }
           }
@@ -135,6 +135,8 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "Drafts/金融市场与真理.md",
+    "Drafts/Untitled 4.md",
     "Drafts/Bold hypothesis.md",
     "Drafts/邏輯學基本原理.md",
     "Drafts/慎独.md",
@@ -142,8 +144,6 @@
     "Drafts/Untitled.md",
     "语言学习.md",
     "没有什么东西可以拿来就用的.md",
-    "投资.md",
-    "计划你的交易，交易你的计划.md",
-    "完美主义的理解.md"
+    "投资.md"
   ]
 }
