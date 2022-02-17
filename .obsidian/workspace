@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "交易系统.md",
+            "file": "Drafts/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交易系统.md",
+                "file": "Drafts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交易系统.md"
+                "file": "Drafts/Untitled.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "交易系统.md",
-    "pages/contents.md",
-    "Drafts/Imperfect understanding.md",
-    "知行合一.md",
-    "Be yourself.md",
-    "Markdown 常用语法.md",
-    "WHERE IS MY MISTAKES.md",
-    "George Soros.md",
-    "Essays/客观的思考.md",
-    "Drafts/逻辑系统.md"
+    "Drafts/Untitled.md",
+    "语言学习.md",
+    "没有什么东西可以拿来就用的.md",
+    "投资.md",
+    "计划你的交易，交易你的计划.md",
+    "完美主义的理解.md",
+    "是什么与为什么.md",
+    "用命题进行预测.md",
+    "至良知.md",
+    "Real-Time Experiment/Monday,January 4,2021.md"
   ]
 }
