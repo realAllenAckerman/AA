@@ -6,11 +6,11 @@
       {
         "id": "c69026153e067975",
         "type": "leaf",
-        "dimension": 70.23809523809524,
+        "dimension": 74.76190476190476,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "交易系统.md",
+            "file": "MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,7 +20,7 @@
       {
         "id": "a236f7855198dab6",
         "type": "leaf",
-        "dimension": 29.761904761904766,
+        "dimension": 25.238095238095237,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -95,8 +95,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交易系统.md",
-                "collapseAll": false,
+                "file": "MOC.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "交易系统.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "交易系统.md",
+    "MOC.md",
     "pages/contents.md",
+    "知行合一.md",
+    "journals/2022_02_15.md",
+    "pages/人须在事上磨.md",
+    "克己工夫.md",
+    "至良知.md",
+    "交易系统.md",
     "Knowledge/危险——厌恶论证的人.md",
-    "Drafts/Untitled.md",
-    "Drafts/对确定性的追求.md",
-    "Drafts/积极的行动.md",
-    "Drafts/Beyond.md",
-    "Drafts/Untitled 4.md",
-    "Drafts/Imperfect understanding.md",
-    "README.md"
+    "Drafts/Untitled.md"
   ]
 }
