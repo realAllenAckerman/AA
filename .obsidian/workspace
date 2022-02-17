@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Untitled.md",
+            "file": "Knowledge/危险——厌恶论证的人.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Untitled.md",
+                "file": "Knowledge/危险——厌恶论证的人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Untitled.md"
+                "file": "Knowledge/危险——厌恶论证的人.md"
               }
             }
           }
@@ -135,6 +135,7 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "Knowledge/危险——厌恶论证的人.md",
     "Drafts/Untitled.md",
     "Drafts/对确定性的追求.md",
     "Drafts/积极的行动.md",
@@ -143,7 +144,6 @@
     "Drafts/Imperfect understanding.md",
     "README.md",
     "克己工夫.md",
-    "自大才是真正的无知.md",
-    "真正的提问.md"
+    "自大才是真正的无知.md"
   ]
 }
