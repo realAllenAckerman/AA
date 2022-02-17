@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge/危险——厌恶论证的人.md",
+            "file": "交易系统.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/危险——厌恶论证的人.md",
+                "file": "交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/危险——厌恶论证的人.md"
+                "file": "交易系统.md"
               }
             }
           }
@@ -135,6 +135,8 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "交易系统.md",
+    "pages/contents.md",
     "Knowledge/危险——厌恶论证的人.md",
     "Drafts/Untitled.md",
     "Drafts/对确定性的追求.md",
@@ -142,8 +144,6 @@
     "Drafts/Beyond.md",
     "Drafts/Untitled 4.md",
     "Drafts/Imperfect understanding.md",
-    "README.md",
-    "克己工夫.md",
-    "自大才是真正的无知.md"
+    "README.md"
   ]
 }
