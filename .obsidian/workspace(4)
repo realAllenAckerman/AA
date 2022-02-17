@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "7bdaf8beec1c5caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "695eb67c885525e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Drafts/Boom–bust.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46914fa426cda838",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e145f438ad8cfb27",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a71d394881ca1ddc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "预测",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b66eb042fe036617",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2b3cce832c86c839",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "dd310a91fa2bd775",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "21ed6e65da62ef3d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Drafts/Boom–bust.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "78e686cef43b6f47",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Drafts/Boom–bust.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "695eb67c885525e8",
+  "lastOpenFiles": [
+    "Drafts/Boom–bust.md",
+    "ZK/202011140107.md",
+    "Literature Notes/關於停損點.md",
+    "Knowledge/本质主义.md",
+    "ZK/202011140101.md",
+    "Drafts/用命题进行预测.md",
+    "极权统治.md",
+    "Drafts/人不应该去追求快乐，而是要避免痛苦.md",
+    "Drafts/做交易一定要坚韧.md",
+    "Drafts/如何构建一个头寸？.md"
+  ]
+}

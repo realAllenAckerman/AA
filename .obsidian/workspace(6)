@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "055f252e4441548c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a46babfbd8a1e0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trader List.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "073844204bbbce6e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d401a91d1687f69f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3bed168937f6d740",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "209dd718ad59112d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4365a021320c8f7e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bf049b5a53945aff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62a7c2995c2dc740",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Trader List.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6e79881eb01ceb84",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Trader List.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0a46babfbd8a1e0c",
+  "lastOpenFiles": [
+    "Trader List.md",
+    "pages/contents.md",
+    "Drafts/交易系统.md",
+    "交易.md",
+    "Drafts/资金管理.md",
+    "George Soros.md",
+    "Drafts/逻辑系统.md",
+    "Drafts/Falsifiability.md",
+    "Drafts/Bold hypothesis.md",
+    "Drafts/The Way Ahead Monday,August 2,2021.md"
+  ]
+}

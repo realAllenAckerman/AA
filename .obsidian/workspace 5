@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "7bdaf8beec1c5caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2696951798d5d17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习有法，学无定法。.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58c7473cc46a6de1",
+    "type": "split",
+    "children": [
+      {
+        "id": "833e9cf50bc9beb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5808e142a8cbe782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c2a62047c3acb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "上涨",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94db68dbf467e0c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b8ff43c3b27247a",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d8fbb15f078fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c54499c25f465b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习有法，学无定法。.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768b998a46a154e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a8f53727e661b46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习有法，学无定法。.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d2696951798d5d17",
+  "lastOpenFiles": [
+    "学习有法，学无定法。.md",
+    "Drafts/逻辑系统.md",
+    "Drafts/邏輯學基本原理.md",
+    "Drafts/积极的行动.md",
+    "Drafts/定义项.md",
+    "统计.md",
+    "自大才是真正的无知.md",
+    "知识需要被检验.md",
+    "自律 Autonomy.md",
+    "苏格拉低的理由是 我们的信念有可能出错.md"
+  ]
+}

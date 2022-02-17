@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "7bdaf8beec1c5caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3309f657c62f4fca",
+        "type": "leaf",
+        "dimension": 66.54545454545455,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "命题投资.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        },
+        "group": "84fd301b287bae24"
+      },
+      {
+        "id": "c29f7a429c336211",
+        "type": "split",
+        "dimension": 33.45454545454545,
+        "children": [
+          {
+            "id": "b0e9aac43c6e6c85",
+            "type": "leaf",
+            "dimension": 49.6987951807229,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "命题投资.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "84fd301b287bae24"
+          },
+          {
+            "id": "22a48964de1ea591",
+            "type": "leaf",
+            "dimension": 50.30120481927711,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "命题投资.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "84fd301b287bae24"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50cb738133aaf5c0",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fe060aeba8c9569f",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "active": "b0e9aac43c6e6c85",
+  "lastOpenFiles": [
+    "命题投资.md",
+    "Drafts/邏輯學基本原理.md",
+    "金融市场里期望的重要性.md",
+    "我到底该如何玩好这个游戏.md",
+    "先投资，后调查.md",
+    "George Soros.md",
+    "投资.md",
+    "投资会受到一些法则的约束.md",
+    "Knowledge/Logic/Class (philosophy).md",
+    "Knowledge/实在论.md"
+  ]
+}

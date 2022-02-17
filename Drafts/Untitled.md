@@ -1,0 +1,4 @@
+它给了我们更客观的理由相信，我们的看法和期望是（至少可能是）错误的。  
+
+我将自反性和易错性的结合称为人类不确定性原理。这使它成为比自反性更广泛的概念。人类不确定性原理比充斥在笛卡尔哲学中的主观怀疑要具体和严格得多。它使我们有客观的理由相信参与者所持的理论与具体事实的陈述不同，容易有偏见、不完整或两者兼而有之。  
+ I referred to the combination of reflexivity and fallibility as the _human uncertainty principle_. That makes it a broader concept than reflexivity. The human uncertainty principle is much more specific and stringent than the subjective skepticism that pervades Cartesian philosophy. It gives us objective reasons to believe that the theories held by the participants, as distinct from statements of specific facts, are liable to be biased, incomplete, or both.

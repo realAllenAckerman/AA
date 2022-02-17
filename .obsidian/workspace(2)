@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "7bdaf8beec1c5caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba56352440edb53a",
+        "type": "leaf",
+        "dimension": 37.018181818181816,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9e8d138b88a992a2",
+        "type": "leaf",
+        "dimension": 62.981818181818184,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d3a3904ad5d5338",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a0841f52fc7501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9e03c7f10906e9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "833b87f7be01ef88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "401a38dc2a95df05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "3d666d00422c471f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d907ccfec6b9fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a317f3d2faf7d33a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5e6c639940e189ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "063e80aad136492a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "active": "9e8d138b88a992a2",
+  "lastOpenFiles": [
+    "未命名.md",
+    "mind map.md",
+    "Knowledge/道.md",
+    "Knowledge/实在论.md",
+    "Knowledge/本质主义.md",
+    "知行合一.md",
+    "命题投资.md",
+    "人应该限定自己的范围.md",
+    "统计.md",
+    "真理.md"
+  ]
+}

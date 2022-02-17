@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "fileSortOrder": "byCreatedTime",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Drafts",
+  "attachmentFolderPath": "Media",
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "showUnsupportedFiles": true
+}

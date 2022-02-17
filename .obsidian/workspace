@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "055f252e4441548c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69026153e067975",
+        "type": "leaf",
+        "dimension": 62.28260869565217,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Markdown 常用语法.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a236f7855198dab6",
+        "type": "leaf",
+        "dimension": 37.71739130434783,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/contents.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b95cb3841c97023e",
+    "type": "split",
+    "children": [
+      {
+        "id": "634eddc0cc9589d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a66aa488c47d34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc3a0ad6c24eb34b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e974244a93af3b31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b7e3dfe33965740",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2fa723f06fa6285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42c29319f7a9cbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown 常用语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef2b02d35601a0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13b1bc709d11a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown 常用语法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c69026153e067975",
+  "lastOpenFiles": [
+    "Markdown 常用语法.md",
+    "WHERE IS MY MISTAKES.md",
+    "George Soros.md",
+    "Essays/客观的思考.md",
+    "Drafts/逻辑系统.md",
+    "Drafts/邏輯學基本原理.md",
+    "Drafts/Falsifiability.md",
+    "Drafts/Bold hypothesis.md",
+    "Drafts/Untitled.md",
+    "Drafts/对确定性的追求.md"
+  ]
+}

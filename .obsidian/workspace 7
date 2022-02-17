@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "055f252e4441548c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b478abe564a93d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2022_02_14.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27463671cc19cdc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3219a1df9afe1eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2886bf6b9735178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "506a868326431be7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70438b4b27e8114a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31a2157282675d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf43279424efb901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f252225346889180",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2022_02_14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06bda356fb2180e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b0331f32122e45c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2022_02_14.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "active": "5b478abe564a93d5",
+  "lastOpenFiles": [
+    "journals/2022_02_14.md",
+    "journals/2022_02_12.md",
+    "交易.md",
+    "pages/contents.md",
+    "WHERE IS MY MISTAKES.md",
+    "Markdown 常用语法.md",
+    "Trader List.md",
+    "Drafts/交易系统.md",
+    "计划你的交易，交易你的计划.md",
+    "先胜后战，不胜不战.md"
+  ]
+}

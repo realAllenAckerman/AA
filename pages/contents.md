@@ -1,0 +1,21 @@
+- ### Critical rationalism
+	- [[Critical thinking]]
+- ### Reflexivity
+	- [[Imperfect understanding]]
+	- [[Falsifiability]]
+	- [[Feedback loop]]
+	- [[Boom–bust]]
+- ### Organon
+	- [[MOC]]
+- ### Financial market
+	- [[WHERE IS MY MISTAKES]]
+	- [[命题投资]]
+	- [[Trader List]]
+	- [[交易]]
+	- [[交易系统]]
+- ### KNOW THYSELF
+	- [[Be yourself]]
+		- [[Beyond]]
+	- [[Love Thyself]]
+	- [[知行合一]]
+	- 

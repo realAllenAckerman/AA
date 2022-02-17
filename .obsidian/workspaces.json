@@ -1,0 +1,368 @@
+{
+  "workspaces": {
+    "work": {
+      "main": {
+        "id": "7bdaf8beec1c5caa",
+        "type": "split",
+        "children": [
+          {
+            "id": "3309f657c62f4fca",
+            "type": "leaf",
+            "dimension": 66.54545454545455,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命题投资.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            },
+            "group": "84fd301b287bae24"
+          },
+          {
+            "id": "c29f7a429c336211",
+            "type": "split",
+            "dimension": 33.45454545454545,
+            "children": [
+              {
+                "id": "b0e9aac43c6e6c85",
+                "type": "leaf",
+                "dimension": 49.6987951807229,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "命题投资.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "84fd301b287bae24"
+              },
+              {
+                "id": "22a48964de1ea591",
+                "type": "leaf",
+                "dimension": 50.30120481927711,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "命题投资.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "84fd301b287bae24"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7d3a3904ad5d5338",
+        "type": "split",
+        "children": [
+          {
+            "id": "d1a0841f52fc7501",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9e03c7f10906e9d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "833b87f7be01ef88",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "相信",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "401a38dc2a95df05",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264
+      },
+      "right": {
+        "id": "3d666d00422c471f",
+        "type": "split",
+        "children": [
+          {
+            "id": "7d907ccfec6b9fa2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a317f3d2faf7d33a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "命题投资.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "5e6c639940e189ec",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "063e80aad136492a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "命题投资.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221
+      },
+      "active": "b0e9aac43c6e6c85"
+    },
+    "对照": {
+      "main": {
+        "id": "055f252e4441548c",
+        "type": "split",
+        "children": [
+          {
+            "id": "5b478abe564a93d5",
+            "type": "leaf",
+            "dimension": 60.63492063492063,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/未来的路 Tuesday,April 13,2021.md",
+                "mode": "source"
+              }
+            },
+            "group": "6e7941862c5ffcf9"
+          },
+          {
+            "id": "e0f645de00d34d7f",
+            "type": "split",
+            "dimension": 39.36507936507937,
+            "children": [
+              {
+                "id": "f5d1fc5ce2655762",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Essays/未来的路 Tuesday,April 13,2021.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "6e7941862c5ffcf9"
+              },
+              {
+                "id": "d06650bcb8a3cefd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Essays/未来的路 Tuesday,April 13,2021.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "6e7941862c5ffcf9"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "27463671cc19cdc9",
+        "type": "split",
+        "children": [
+          {
+            "id": "3219a1df9afe1eec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b2886bf6b9735178",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "506a868326431be7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "70438b4b27e8114a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "31a2157282675d43",
+        "type": "split",
+        "children": [
+          {
+            "id": "bf43279424efb901",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f252225346889180",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Essays/未来的路 Tuesday,April 13,2021.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06bda356fb2180e2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0b0331f32122e45c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Essays/未来的路 Tuesday,April 13,2021.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "5b478abe564a93d5"
+    }
+  },
+  "active": "对照"
+}
