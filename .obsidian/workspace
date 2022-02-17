@@ -10,8 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Untitled.md",
-            "mode": "source"
+            "file": "Drafts/Bold hypothesis.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       },
@@ -24,7 +26,9 @@
           "type": "markdown",
           "state": {
             "file": "pages/contents.md",
-            "mode": "preview"
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           },
           "pinned": true
         }
@@ -33,99 +37,113 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75c43a15e9358f8e",
-    "type": "mobile-drawer",
+    "id": "b95cb3841c97023e",
+    "type": "split",
     "children": [
       {
-        "id": "26bc9777928e359d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "9a8b2c0b7d0aa674",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "634eddc0cc9589d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a66aa488c47d34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc3a0ad6c24eb34b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e974244a93af3b31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "88ebc7dd9393f2aa",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "82024e1bd032a34c",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "d03a90675f869c34",
-    "type": "mobile-drawer",
+    "id": "2b7e3dfe33965740",
+    "type": "split",
     "children": [
       {
-        "id": "99ec60c96013a3bb",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Drafts/Untitled.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b2fa723f06fa6285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42c29319f7a9cbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drafts/Bold hypothesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ef2b02d35601a0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13b1bc709d11a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Drafts/Bold hypothesis.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "c406a67cf867915f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Drafts/Untitled.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "Drafts/Bold hypothesis.md",
+    "Drafts/邏輯學基本原理.md",
+    "Drafts/慎独.md",
+    "Drafts/对确定性的追求.md",
     "Drafts/Untitled.md",
     "语言学习.md",
     "没有什么东西可以拿来就用的.md",
     "投资.md",
     "计划你的交易，交易你的计划.md",
-    "完美主义的理解.md",
-    "是什么与为什么.md",
-    "用命题进行预测.md",
-    "至良知.md",
-    "Real-Time Experiment/Monday,January 4,2021.md"
+    "完美主义的理解.md"
   ]
 }
