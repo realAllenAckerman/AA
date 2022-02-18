@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge/本质主义.md",
+            "file": "Markets Hypothesis/军工股上涨的原因.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/本质主义.md",
+                "file": "Markets Hypothesis/军工股上涨的原因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/本质主义.md"
+                "file": "Markets Hypothesis/军工股上涨的原因.md"
               }
             }
           }
@@ -131,11 +131,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 262
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "Markets Hypothesis/军工股上涨的原因.md",
     "Knowledge/本质主义.md",
     "Knowledge/道.md",
     "Knowledge/实在论.md",
@@ -144,7 +144,6 @@
     "人不应该去追求快乐，而是要避免痛苦.md",
     "无条件的期望.md",
     "詰問的方式.md",
-    "知识的融汇贯通.md",
-    "那些是我需要研究一生的主题.md"
+    "知识的融汇贯通.md"
   ]
 }
