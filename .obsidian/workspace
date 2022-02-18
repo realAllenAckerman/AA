@@ -10,8 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "George Soros.md",
-            "mode": "preview"
+            "file": "做交易一定要坚韧.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           }
         }
       },
@@ -24,7 +26,9 @@
           "type": "markdown",
           "state": {
             "file": "pages/contents.md",
-            "mode": "preview"
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           },
           "pinned": true
         }
@@ -33,99 +37,114 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fa93eddd742e14ed",
-    "type": "mobile-drawer",
+    "id": "69ec001fc2c85fb1",
+    "type": "split",
     "children": [
       {
-        "id": "8bdb473a25233660",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "1b714d4b97edb64d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "立志",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c429ac2c3c32e6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a6538b350d3617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4748356d9e8338d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5820ce80a06dba46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "ebaa1014ffa1980c",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "1c22e863147ef8be",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9014de0e1f7111b6",
-    "type": "mobile-drawer",
+    "id": "778fe619bf76babc",
+    "type": "split",
     "children": [
       {
-        "id": "1e6a5a83763e39b4",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "George Soros.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "1eed499be715b349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f81a41278a29e3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "做交易一定要坚韧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfc9d6fbc656f164",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e1cd9f4b72f2917",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "做交易一定要坚韧.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "adafc503b54da805",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "George Soros.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "George Soros.md",
-    "Literature Notes/人们对现实的看法与实际情况是吻合的，这就是均衡.md",
-    "安全边际.md",
-    "交易的五个动作.md",
-    "立志.md",
-    "克己工夫.md",
-    "知行合一.md",
-    "关于平仓.md",
-    "Trader List.md",
-    "pages/contents.md"
+    "做交易一定要坚韧.md",
+    "如何构建一个头寸？.md",
+    "人不应该去追求快乐，而是要避免痛苦.md",
+    "无条件的期望.md",
+    "詰問的方式.md",
+    "知识的融汇贯通.md",
+    "那些是我需要研究一生的主题.md",
+    "MOC.md",
+    "Be yourself.md",
+    "交易成功之道.md"
   ]
 }
