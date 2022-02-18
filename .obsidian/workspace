@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "做交易一定要坚韧.md",
+            "file": "Knowledge/本质主义.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "做交易一定要坚韧.md",
+                "file": "Knowledge/本质主义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "做交易一定要坚韧.md"
+                "file": "Knowledge/本质主义.md"
               }
             }
           }
@@ -136,15 +136,15 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "Knowledge/本质主义.md",
+    "Knowledge/道.md",
+    "Knowledge/实在论.md",
     "做交易一定要坚韧.md",
     "如何构建一个头寸？.md",
     "人不应该去追求快乐，而是要避免痛苦.md",
     "无条件的期望.md",
     "詰問的方式.md",
     "知识的融汇贯通.md",
-    "那些是我需要研究一生的主题.md",
-    "MOC.md",
-    "Be yourself.md",
-    "交易成功之道.md"
+    "那些是我需要研究一生的主题.md"
   ]
 }
