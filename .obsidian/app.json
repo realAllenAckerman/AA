@@ -36,5 +36,6 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "newLinkFormat": "shortest"
 }

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2022_02_17.md",
-            "mode": "preview",
+            "file": "WHERE IS MY MISTAKES.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "69ec001fc2c85fb1",
+    "id": "681aaba400b9a82b",
     "type": "split",
     "children": [
       {
-        "id": "c429ac2c3c32e6b7",
+        "id": "dfb20fc0dc1c84ad",
         "type": "tabs",
         "children": [
           {
-            "id": "55a6538b350d3617",
+            "id": "aaaa2db957e70db1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +53,7 @@
             }
           },
           {
-            "id": "4748356d9e8338d3",
+            "id": "35acd4bcb0fc349a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "5820ce80a06dba46",
+            "id": "d85ebe18dccd868d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,20 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "778fe619bf76babc",
+    "id": "b357b086064ba5a6",
     "type": "split",
     "children": [
       {
-        "id": "1eed499be715b349",
+        "id": "019bbcecf82ca1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "5f81a41278a29e3b",
+            "id": "ccd9895ab8d5506e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_02_17.md",
+                "file": "WHERE IS MY MISTAKES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "dfc9d6fbc656f164",
+            "id": "836bb1232ceddba4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +118,12 @@
             }
           },
           {
-            "id": "1e1cd9f4b72f2917",
+            "id": "ac4831d9ea80b691",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_02_17.md"
+                "file": "WHERE IS MY MISTAKES.md"
               }
             }
           }
@@ -131,19 +131,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 300
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "journals/2022_02_17.md",
-    "journals/2022_02_12.md",
-    "journals/2022_02_14.md",
-    "journals/2022_02_15.md",
-    "journals/2022_02_16.md",
-    "pages/人须在事上磨.md",
-    "pages/hls__开放社会及其敌人.md",
-    "pages/开放社会及其敌人.md",
+    "WHERE IS MY MISTAKES.md",
     "pages/contents.md",
-    "Markets Hypothesis/军工股上涨的原因.md"
+    "交易.md",
+    "交易系统.md",
+    "计划你的交易，交易你的计划.md",
+    "Knowledge/Critical rationalism/Critical thinking.md",
+    "Drafts/Imperfect understanding.md",
+    "命题投资.md",
+    "Trader List.md",
+    "克己工夫.md"
   ]
 }

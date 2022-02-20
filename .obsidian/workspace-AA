@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "055f252e4441548c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69026153e067975",
+        "type": "leaf",
+        "dimension": 74.76190476190476,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2022_02_19.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a236f7855198dab6",
+        "type": "leaf",
+        "dimension": 25.238095238095237,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/contents.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "269a1a9641774b6e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8cd713c62964dd5a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e356d9983b550f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7d3f1f277a40030d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4255c4a092401031",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "65e848a21f8c1a13",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4114ccc7c37c8a4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "journals/2022_02_19.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b420698a5034abf4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "journals/2022_02_19.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c69026153e067975",
+  "lastOpenFiles": [
+    "journals/2022_02_19.md",
+    "WHERE IS MY MISTAKES.md",
+    "pages/contents.md",
+    "交易.md",
+    "交易系统.md",
+    "计划你的交易，交易你的计划.md",
+    "Knowledge/Critical rationalism/Critical thinking.md",
+    "Drafts/Imperfect understanding.md",
+    "命题投资.md",
+    "Trader List.md"
+  ]
+}

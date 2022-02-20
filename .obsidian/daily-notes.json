@@ -1,1 +1,5 @@
-{"folder":"Real-Time Experiment","format":"dddd,MMMM D,YYYY"}
+{
+  "folder": "Real-Time Experiment",
+  "format": "dddd,MMMM D,YYYY",
+  "autorun": false
+}
