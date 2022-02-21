@@ -10,8 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Essays/未来的路 Tuesday,April 13,2021.md",
-            "mode": "preview"
+            "file": "交易系统.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           }
         }
       },
@@ -24,7 +26,9 @@
           "type": "markdown",
           "state": {
             "file": "pages/contents.md",
-            "mode": "preview"
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           },
           "pinned": true
         }
@@ -33,99 +37,114 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c438186851f37e83",
-    "type": "mobile-drawer",
+    "id": "1f3ff9f4d2957ca2",
+    "type": "split",
     "children": [
       {
-        "id": "4b9f64d575d874e7",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "95b5832ce9fa250b",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b7707de363b21fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632230ec594d18ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b7bbc19babb5ceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74a62c98e4fea7a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "1995216af0577c67",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "2f3eb4a2464c14f4",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8bc80e1d0e1441f3",
-    "type": "mobile-drawer",
+    "id": "6571ecd88d98925d",
+    "type": "split",
     "children": [
       {
-        "id": "e31c0e8b519a708b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Essays/未来的路 Tuesday,April 13,2021.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "6929f0b584bb24c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aedd6f0be110c455",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "交易系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b176ed02a663b1a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5f6c50fc3752c6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "交易系统.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "5d95fc9cce5e5f26",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Essays/未来的路 Tuesday,April 13,2021.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "交易系统.md",
+    "pages/contents.md",
+    "命题投资.md",
+    "Trader List.md",
+    "交易.md",
     "Essays/未来的路 Tuesday,April 13,2021.md",
     "Essays/The Way Ahead Monday,August 2,2021.md",
     "Drafts/对确定性的追求.md",
     "Drafts/Falsifiability.md",
-    "Drafts/Bold hypothesis.md",
-    "Drafts/积极的行动.md",
-    "Drafts/慎独.md",
-    "Drafts/二八定律.md",
-    "Drafts/Untitled 2.md",
-    "Drafts/Beyond.md"
+    "Drafts/Bold hypothesis.md"
   ]
 }
