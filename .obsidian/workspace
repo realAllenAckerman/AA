@@ -6,11 +6,11 @@
       {
         "id": "c69026153e067975",
         "type": "leaf",
-        "dimension": 64.45652173913044,
+        "dimension": 74.76190476190476,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "先投资，后调查.md",
+            "file": "Essays/未来的路 Tuesday,April 13,2021.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -20,7 +20,7 @@
       {
         "id": "a236f7855198dab6",
         "type": "leaf",
-        "dimension": 35.54347826086956,
+        "dimension": 25.238095238095237,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "40cc45ac8bbbe8ed",
+    "id": "681aaba400b9a82b",
     "type": "split",
     "children": [
       {
-        "id": "27b82afea1bbb9da",
+        "id": "dfb20fc0dc1c84ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8f47a71699af35f9",
+            "id": "aaaa2db957e70db1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +53,12 @@
             }
           },
           {
-            "id": "8e192871b1fa9115",
+            "id": "35acd4bcb0fc349a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "先投",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,47 +68,46 @@
             }
           },
           {
-            "id": "1fcce679ae2c74bf",
+            "id": "d85ebe18dccd868d",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "607ab81fd4e53cb0",
+    "id": "b357b086064ba5a6",
     "type": "split",
     "children": [
       {
-        "id": "012cb7a1279f4547",
+        "id": "019bbcecf82ca1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "33ef0f1a2d40ca2c",
+            "id": "ccd9895ab8d5506e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "先投资，后调查.md",
+                "file": "Essays/未来的路 Tuesday,April 13,2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "ca708dcc2c832569",
+            "id": "836bb1232ceddba4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,12 +118,12 @@
             }
           },
           {
-            "id": "24d8d407e38991cd",
+            "id": "ac4831d9ea80b691",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "先投资，后调查.md"
+                "file": "Essays/未来的路 Tuesday,April 13,2021.md"
               }
             }
           }
@@ -132,20 +131,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 198
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "先投资，后调查.md",
-    "安全边际.md",
-    "投资.md",
-    "交易.md",
-    "pages/contents.md",
-    "交易系统.md",
-    "Trader List.md",
-    "命题投资.md",
-    "Review trade.md",
-    "WHERE IS MY MISTAKES.md"
+    "Essays/未来的路 Tuesday,April 13,2021.md",
+    "Essays/The Way Ahead Monday,August 2,2021.md",
+    "Drafts/对确定性的追求.md",
+    "Drafts/Falsifiability.md",
+    "Drafts/Bold hypothesis.md",
+    "Drafts/积极的行动.md",
+    "Drafts/慎独.md",
+    "Drafts/二八定律.md",
+    "Drafts/Untitled 2.md",
+    "Drafts/Beyond.md"
   ]
 }
