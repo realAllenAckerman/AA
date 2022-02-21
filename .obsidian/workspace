@@ -6,12 +6,12 @@
       {
         "id": "c69026153e067975",
         "type": "leaf",
-        "dimension": 74.76190476190476,
+        "dimension": 64.45652173913044,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WHERE IS MY MISTAKES.md",
-            "mode": "source",
+            "file": "先投资，后调查.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -20,7 +20,7 @@
       {
         "id": "a236f7855198dab6",
         "type": "leaf",
-        "dimension": 25.238095238095237,
+        "dimension": 35.54347826086956,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "681aaba400b9a82b",
+    "id": "40cc45ac8bbbe8ed",
     "type": "split",
     "children": [
       {
-        "id": "dfb20fc0dc1c84ad",
+        "id": "27b82afea1bbb9da",
         "type": "tabs",
         "children": [
           {
-            "id": "aaaa2db957e70db1",
+            "id": "8f47a71699af35f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +53,12 @@
             }
           },
           {
-            "id": "35acd4bcb0fc349a",
+            "id": "8e192871b1fa9115",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "先投",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,34 +68,35 @@
             }
           },
           {
-            "id": "d85ebe18dccd868d",
+            "id": "1fcce679ae2c74bf",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "b357b086064ba5a6",
+    "id": "607ab81fd4e53cb0",
     "type": "split",
     "children": [
       {
-        "id": "019bbcecf82ca1d0",
+        "id": "012cb7a1279f4547",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd9895ab8d5506e",
+            "id": "33ef0f1a2d40ca2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WHERE IS MY MISTAKES.md",
+                "file": "先投资，后调查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             }
           },
           {
-            "id": "836bb1232ceddba4",
+            "id": "ca708dcc2c832569",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +119,12 @@
             }
           },
           {
-            "id": "ac4831d9ea80b691",
+            "id": "24d8d407e38991cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WHERE IS MY MISTAKES.md"
+                "file": "先投资，后调查.md"
               }
             }
           }
@@ -131,19 +132,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "WHERE IS MY MISTAKES.md",
-    "pages/contents.md",
+    "先投资，后调查.md",
+    "安全边际.md",
+    "投资.md",
     "交易.md",
+    "pages/contents.md",
     "交易系统.md",
-    "计划你的交易，交易你的计划.md",
-    "Knowledge/Critical rationalism/Critical thinking.md",
-    "Drafts/Imperfect understanding.md",
-    "命题投资.md",
     "Trader List.md",
-    "克己工夫.md"
+    "命题投资.md",
+    "Review trade.md",
+    "WHERE IS MY MISTAKES.md"
   ]
 }
