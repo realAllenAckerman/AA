@@ -6,11 +6,11 @@
       {
         "id": "c69026153e067975",
         "type": "leaf",
-        "dimension": 74.76190476190476,
+        "dimension": 64.45652173913044,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "交易系统.md",
+            "file": "WHERE IS MY MISTAKES.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -20,7 +20,7 @@
       {
         "id": "a236f7855198dab6",
         "type": "leaf",
-        "dimension": 25.238095238095237,
+        "dimension": 35.54347826086956,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f3ff9f4d2957ca2",
+    "id": "40cc45ac8bbbe8ed",
     "type": "split",
     "children": [
       {
-        "id": "b7707de363b21fb3",
+        "id": "27b82afea1bbb9da",
         "type": "tabs",
         "children": [
           {
-            "id": "632230ec594d18ec",
+            "id": "8f47a71699af35f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +53,7 @@
             }
           },
           {
-            "id": "1b7bbc19babb5ceb",
+            "id": "8e192871b1fa9115",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "74a62c98e4fea7a8",
+            "id": "1fcce679ae2c74bf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,20 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "6571ecd88d98925d",
+    "id": "607ab81fd4e53cb0",
     "type": "split",
     "children": [
       {
-        "id": "6929f0b584bb24c0",
+        "id": "012cb7a1279f4547",
         "type": "tabs",
         "children": [
           {
-            "id": "aedd6f0be110c455",
+            "id": "33ef0f1a2d40ca2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "交易系统.md",
+                "file": "WHERE IS MY MISTAKES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "b176ed02a663b1a8",
+            "id": "ca708dcc2c832569",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +118,12 @@
             }
           },
           {
-            "id": "b5f6c50fc3752c6f",
+            "id": "24d8d407e38991cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "交易系统.md"
+                "file": "WHERE IS MY MISTAKES.md"
               }
             }
           }
@@ -136,15 +136,15 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "交易系统.md",
+    "WHERE IS MY MISTAKES.md",
     "pages/contents.md",
-    "命题投资.md",
+    "交易系统.md",
     "Trader List.md",
+    "先投资，后调查.md",
+    "安全边际.md",
+    "投资.md",
     "交易.md",
-    "Essays/未来的路 Tuesday,April 13,2021.md",
-    "Essays/The Way Ahead Monday,August 2,2021.md",
-    "Drafts/对确定性的追求.md",
-    "Drafts/Falsifiability.md",
-    "Drafts/Bold hypothesis.md"
+    "命题投资.md",
+    "Review trade.md"
   ]
 }
