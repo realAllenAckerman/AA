@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2022_02_24.md",
+            "file": "WHERE IS MY MISTAKES.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -37,99 +37,114 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c795613419a8660b",
-    "type": "mobile-drawer",
+    "id": "d492a0df5fe79e75",
+    "type": "split",
     "children": [
       {
-        "id": "3e60aca74d2eb59a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2887cfcee2208006",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "8ccb0a4477ea8d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b667ce1807d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d638cf355bc6a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c9da34ba739bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "5c6909772f9d2eee",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "100b6b1abc0285ca",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5cba54e8e838fe52",
-    "type": "mobile-drawer",
+    "id": "da077cdb26ea6af0",
+    "type": "split",
     "children": [
       {
-        "id": "21bc87e41a115530",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "journals/2022_02_24.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "6cb30876503be30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e051e69c5d76b467",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WHERE IS MY MISTAKES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c12d2d78359c145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c5ae87e262240c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WHERE IS MY MISTAKES.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "84b68b9b82c399e7",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "journals/2022_02_24.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "journals/2022_02_24.md",
     "WHERE IS MY MISTAKES.md",
     "pages/contents.md",
-    "交易系统.md",
+    "命题投资.md",
     "Trader List.md",
+    "交易.md",
+    "journals/2022_02_24.md",
+    "交易系统.md",
     "先投资，后调查.md",
     "安全边际.md",
-    "投资.md",
-    "交易.md",
-    "命题投资.md"
+    "投资.md"
   ]
 }
