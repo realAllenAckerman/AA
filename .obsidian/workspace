@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WHERE IS MY MISTAKES.md",
+            "file": "交易.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WHERE IS MY MISTAKES.md",
+                "file": "交易.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WHERE IS MY MISTAKES.md"
+                "file": "交易.md"
               }
             }
           }
@@ -136,11 +136,11 @@
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
-    "WHERE IS MY MISTAKES.md",
+    "交易.md",
     "pages/contents.md",
+    "WHERE IS MY MISTAKES.md",
     "命题投资.md",
     "Trader List.md",
-    "交易.md",
     "journals/2022_02_24.md",
     "交易系统.md",
     "先投资，后调查.md",
