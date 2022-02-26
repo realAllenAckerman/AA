@@ -6,11 +6,11 @@
       {
         "id": "c69026153e067975",
         "type": "leaf",
-        "dimension": 64.45652173913044,
+        "dimension": 65.28835690968444,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Untitled 4.md",
+            "file": "WHERE IS MY MISTAKES.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -20,7 +20,7 @@
       {
         "id": "a236f7855198dab6",
         "type": "leaf",
-        "dimension": 35.54347826086956,
+        "dimension": 34.71164309031556,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#交易",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "da077cdb26ea6af0",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Untitled 4.md",
+                "file": "WHERE IS MY MISTAKES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Untitled 4.md"
+                "file": "WHERE IS MY MISTAKES.md"
               }
             }
           }
@@ -133,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c69026153e067975",
   "lastOpenFiles": [
+    "WHERE IS MY MISTAKES.md",
+    "pages/contents.md",
+    "知识的融汇贯通.md",
     "Drafts/Untitled 4.md",
     "journals/2022_02_25.md",
     "journals/2022_02_17.md",
     "journals/2022_02_25(1).md",
-    "WHERE IS MY MISTAKES.md",
-    "pages/contents.md",
     "命题投资.md",
     "Trader List.md",
-    "交易.md",
-    "交易系统.md"
+    "交易.md"
   ]
 }
