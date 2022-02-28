@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "37419655e0879e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c980e9d0649fe7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "做交易一定要坚韧.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf5aef4826b014a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc9e70f4f6b354d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2146714d9b153ac5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f25919d5eaf72f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "战斗",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b9e01cbe7775496",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84074da067ebd894",
+    "type": "split",
+    "children": [
+      {
+        "id": "2375e7cf4bdf15e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add2403669a3b777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "做交易一定要坚韧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "632ba3c53bc275aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75f82bb8e3745044",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "做交易一定要坚韧.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c980e9d0649fe7e",
+  "lastOpenFiles": [
+    "做交易一定要坚韧.md",
+    "pages/hls__开放社会及其敌人.md",
+    "知己知彼，百战不殆.md",
+    "詰問的方式.md"
+  ]
+}
